@@ -39,7 +39,7 @@ class FeaturesExtractor:
                             # Default is 26.
                             nfilt        = 30,
                             # The FFT size. Default is 512.
-                            nfft         = 512,
+                            nfft         = 1024,
                             # If true, the zeroth cepstral coefficient is replaced 
                             # with the log of the total frame energy.
                             appendEnergy = True)
