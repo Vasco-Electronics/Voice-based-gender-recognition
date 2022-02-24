@@ -38,7 +38,7 @@ This script require the follwing modules/libraries:
 
 Libs can be installed as follows:
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ## Code & scripts
 - [Run.py](Run.py) : This is the main script and it will run the whole cycle (Data management > Models training > Genders identification)
